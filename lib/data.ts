@@ -59,12 +59,12 @@ export const experiencesData = [
     date: "2021 - 2022",
   },
   {
-    title: "Freelancer",
+    title: "Data Analyst/Freelancer/English Tutor",
     location: "Shanghai, China",
     description:
-      "I am working as freelancer or indie entrepreneur.",
+      "I worked as Data Analyst, Freelancer, and now I am an English Tutor.",
     icon: React.createElement(FaReact),
-    date: "2022 - present",
+    date: "2023 - present",
   },
 ] as const;
 
